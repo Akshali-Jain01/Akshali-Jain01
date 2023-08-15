@@ -1,6 +1,6 @@
 Akshali Jain
-Portfolio | LinkedIn | GitHub | HackerRank
-:jainakshali18@gmail.com: | :phone: +91 7427847228
+
+
 
 :computer: SOFTWARE DEVELOPER
 Passionate engineering student with a focus on the metaverse. Experienced in AR/VR programming, actively involved in community support as a speaker. Currently working on metahumans and their integrations. Excited about the metaverse's potential and dedicated to continued growth in this field.
