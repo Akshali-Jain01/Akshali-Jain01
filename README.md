@@ -1,11 +1,33 @@
-Akshali Jain
+👾 Akshali Jain - The Metaverse Enthusiast 👾
+Portfolio | LinkedIn | GitHub | HackerRank
+📧 jainakshali18@gmail.com | ☎️ +91 7427847228
 
+👩‍💻 SOFTWARE MAGICIAN 🪄
+Greetings, Earthlings! I'm not your average engineering student; I'm a coding conjurer on a mission to reshape reality in the metaverse. 🚀 AR/VR sorceress, community speaker, and full-time dreamer. Currently, I'm cooking up some metahuman magic and sprinkling innovation everywhere I go. Join me on this interdimensional journey! 🌌
 
+🛠️ TECH ARSENAL 🧰
+Languages:
+C++ ➕
+C# #️⃣
+Python 🐍
+HTML 🌐
+CSS 🎨
 
-:computer: SOFTWARE DEVELOPER
-Passionate engineering student with a focus on the metaverse. Experienced in AR/VR programming, actively involved in community support as a speaker. Currently working on metahumans and their integrations. Excited about the metaverse's potential and dedicated to continued growth in this field.
+Tools & Engines:
+Unreal Engine 🎮
+Blueprints 🔵
+Metahuman creator 🤖
+Unity 3D 🌟
+UI in Unity 💬
+Oculus VR 👓
+HTC Vive 🎮
+Scripting 📜
 
-:wrench: TECHNICAL SKILLS
-Languages: C, C++, C#, Python, HTML, CSS
-Tools & Engines: Unreal Engine, Blueprints, Metahuman creator, Unity 3D, UI in Unity, Oculus VR, HTC Vive, Scripting
-Plugins: Pixel Streaming, AR Foundation, ARCore, Metahuman SDK, AZspeechToText, iClone, Vuforia SDK
+Plugins:
+Pixel Streaming 🔌
+AR Foundation 🔮
+ARCore 🌌
+Metahuman SDK 🤖
+AZspeechToText 🗣️
+iClone 🕺
+Vuforia SDK 👁️
