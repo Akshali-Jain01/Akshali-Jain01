@@ -1,20 +1,37 @@
-# 👾 Akshali Jain - The Metaverse Enthusiast 👾
+<h1 align="center">Hi 👋, I'm Akshali Jain</h1>
+<h2 align="center">The Metaverse Enthusiast </h2>
+<h3 align="center">🚀 AR/VR Sorceress | Full-time Dreamer</h3>
+
+<p align="center"> Greetings, Earthlings! I'm not your average engineering student; I'm a coding conjurer on a mission to reshape reality in the metaverse. Currently, I'm cooking up some metahuman magic and sprinkling innovation everywhere I go. Join me on this interdimensional journey! 🌌 </p>
 
 ---
 
-## 👩‍💻 SOFTWARE MAGICIAN 🪄
+<h3 align="left">🛠️ Tech Arsenal 🧰</h3>
 
-Greetings, Earthlings! I'm not your average engineering student; I'm a coding conjurer on a mission to reshape reality in the metaverse. 🚀 AR/VR sorceress, community speaker, and full-time dreamer. Currently, I'm cooking up some metahuman magic and sprinkling innovation everywhere I go. Join me on this interdimensional journey! 🌌
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blueprint/blueprint-original.svg" alt="Blueprints" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity 3D" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="UI in Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oculus/oculus-original.svg" alt="Oculus VR" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/htc/htc-original.svg" alt="HTC Vive" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Scripting" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Pixel Streaming" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="AR Foundation" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="ARCore" width="40" height="40"/>
+</p>
 
 ---
 
-## 🛠️ TECH ARSENAL 🧰
+<p align="center">
+  <img src="link_to_your_logo_image" alt="Metaverse Enthusiast Logo" width="200" height="200"/>
+</p>
 
-### Languages & Tools:
-- ![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/40px-ISO_C%2B%2B_Logo.svg.png) C++ - ![C#](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/40px-C_Sharp_logo.svg.png) C# - ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png) Python - ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/40px-HTML5_logo_and_wordmark.svg.png) HTML - ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/40px-CSS3_logo_and_wordmark.svg.png) CSS - ![Unreal Engine](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Unreal_Engine_Logo_Black.svg/40px-Unreal_Engine_Logo_Black.svg.png) Unreal Engine - ![Blueprints](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/UE4-Blueprint-Icon.png/40px-UE4-Blueprint-Icon.png) Blueprints - ![Metahuman creator](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/UE4-Metahuman_Creator-Icon.png/40px-UE4-Metahuman_Creator-Icon.png) Metahuman creator - ![Unity 3D](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/40px-Unity_Technologies_logo.svg.png) Unity 3D - ![UI in Unity](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/40px-Unity_Technologies_logo.svg.png) UI in Unity - ![Oculus VR](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Oculus_Logo.svg/40px-Oculus_Logo.svg.png) Oculus VR - ![HTC Vive](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HTC_Vive_logo.svg/40px-HTC_Vive_logo.svg.png) HTC Vive - ![Scripting](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Blue_script.jpg/40px-Blue_script.jpg) Scripting - ![Pixel Streaming](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Unreal_Engine_Pixel_Streaming_Logo.svg/40px-Unreal_Engine_Pixel_Streaming_Logo.svg.png) Pixel Streaming - ![AR Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Unity_Technologies_logo.svg/40px-Unity_Technologies_logo.svg.png) AR Foundation - ![ARCore](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ARCore_Logo.svg/40px-ARCore_Logo.svg.png) ARCore
-
----
-
-[![Metaverse Enthusiast Logo](link_to_your_logo_image)](https://yourwebsite.com)
-
-Feel free to reach out and collaborate on GitHub or connect with me on my socials! Let's build the future together. 🚀✨
+<p align="center">
+  Feel free to reach out and collaborate on GitHub or connect with me on my socials! Let's build the future together. 🚀✨
+</p>
