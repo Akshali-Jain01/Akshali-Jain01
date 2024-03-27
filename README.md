@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/woman-working-new-app_23-2148682102.jpg?size=626&ext=jpg" alt="Header Image" width="400"/>
+  <img src="https://img.freepik.com/free-vector/woman-working-new-app_23-2148682102.jpg?size=626&ext=jpg" alt="Header Image" width="100%" style="max-width: 100%; height: auto;"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Akshali Jain</h1>
 <h2 align="center">The Metaverse Enthusiast </h2>
 <h3 align="center">🚀 AR/VR Sorceress | Full-time Dreamer</h3>
