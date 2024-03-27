@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://img.freepik.com/free-vector/woman-working-new-app_23-2148682102.jpg?size=626&ext=jpg](http://mograph.video/Binary-4k)" alt="Header Image" width="100%" style="max-width: 100%; height: auto;"/>
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47kqpir3bwx6li15c4w7yxmkkf5in3utgnrwotqwto&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Header Image" width="100%" style="max-width: 100%; height: auto;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Akshali Jain</h1>
