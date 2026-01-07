@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47kqpir3bwx6li15c4w7yxmkkf5in3utgnrwotqwto&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Header Image" width="100%" style="max-width: 100%; height: 5%;"/>
-</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Akshali Jain</h1>
